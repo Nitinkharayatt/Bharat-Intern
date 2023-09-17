@@ -7,7 +7,13 @@ Welcome to the repository for my BHARAT INTERN internship tasks! This repository
 
 ## About Bharat Intern
 
-[Bharat Intern](https://bharatintern.live/) is an innovative internship program that provides opportunities for students and recent graduates to gain real-world experience and develop their skills in a supportive environment.
+[Bharat Intern](https://bharatintern.live/) is an innovative internship program that shape a better future for businesses and individuals alike.
+
+Connects students with internships: Bharat Intern connects students with internships in a variety of fields. This gives students the opportunity to gain experience, skills, and a network.
+
+Gives students experience, skills, and a network: Internships can give students valuable experience in their field. They can also help students develop new skills and build a network of contacts.
+
+Is a great way to start your career: Internships can be a great way to start your career. They can help you gain experience, skills, and a network that can help you land your first job
 
 ## Additional Information
 
