@@ -1,7 +1,7 @@
 # Bharat-Intern (Internship Tasks)
 
 
-![Bharat Intern Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fcompany%2Fbharat-intern&psig=AOvVaw2mxr_lvResNrK4bhkMJ22m&ust=1695069706584000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDe9-3AsoEDFQAAAAAdAAAAABAE)
+![Bharat Intern Logo](https://bharatintern.live/b/icons/logoNoBg.png)
 
 Welcome to the repository for my BHARAT INTERN internship tasks! This repository contains a collection of all the assignments and projects I worked on during my internship at [Bharat Intern](https://bharatintern.live/)
 
