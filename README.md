@@ -1,7 +1,17 @@
 # Bharat-Intern (Internship Tasks)
 
 
+
+
+
+
+
 ![Bharat Intern Logo](https://bharatintern.live/b/icons/logoNoBg.png)
+
+
+
+
+
 
 Welcome to the repository for my BHARAT INTERN internship tasks! This repository contains a collection of all the assignments and projects I worked on during my internship at [Bharat Intern](https://bharatintern.live/)
 
