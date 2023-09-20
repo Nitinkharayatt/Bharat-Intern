@@ -23,9 +23,11 @@ Connects students with internships: Bharat Intern connects students with interns
 
 Gives students experience, skills, and a network: Internships can give students valuable experience in their field. They can also help students develop new skills and build a network of contacts.
 
-Is a great way to start your career: Internships can be a great way to start your career. They can help you gain experience, skills, and a network that can help you land your first job
+Is a great way to start your career: Internships can be a great way to start your career. They can help you gain experience, skills, and a network that can help you land your first job.
 
 ## Additional Information
+
+TASK 1 : https://www.linkedin.com/posts/nitin-singh-866536286_bharatinternship-webdeveloper-bharatintern-activity-7110299564607176704-P4Wu?utm_source=share&utm_medium=member_android
 
 Feel free to explore the individual directories for each task to access the source code, documentation, and any additional resources related to the tasks.
 
