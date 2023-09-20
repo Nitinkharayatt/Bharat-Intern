@@ -27,7 +27,7 @@ Is a great way to start your career: Internships can be a great way to start you
 
 ## Additional Information
 
-TASK 1 : https://www.linkedin.com/posts/nitin-singh-866536286_bharatinternship-webdeveloper-bharatintern-activity-7110299564607176704-P4Wu?utm_source=share&utm_medium=member_android
+[TASK 1 LINKEDIN POS](https://www.linkedin.com/posts/nitin-singh-866536286_bharatinternship-webdeveloper-bharatintern-activity-7110299564607176704-P4Wu?utm_source=share&utm_medium=member_android) : 
 
 Feel free to explore the individual directories for each task to access the source code, documentation, and any additional resources related to the tasks.
 
